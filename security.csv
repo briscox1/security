@@ -1,0 +1,6 @@
+consumer_name,role,permission,source_system,request_id,contact
+core-api-platform-loader-dev,,READ,UHONE,,
+claims360_np,,READ,UHONE,,
+c360-test-kafka-azure,,READ,UHONE,,
+ebaas-uhone-keystone-dev,,READ,UHONE,,
+oap-uhone-np,,READ,UHONE,,
